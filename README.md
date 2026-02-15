@@ -27,3 +27,27 @@ I am a 2nd-year engineering student building projects daily to gain strong pract
 - Data cleaning
 - Logistic regression
 - ~75% accuracy
+
+### Day 5
+Spam detection using Logistic Regression
+Text preprocessing with CountVectorizer
+Learned precision, recall, F1-score
+Confusion matrix analysis
+Tested custom messages
+Understood how text converts into numerical vectors
+
+### Day 6
+Linear Regression model
+House price prediction
+Features: area, bedrooms, bathrooms
+Learned coefficients and intercept
+Evaluated using MAE and MSE
+Added user input for real-time prediction
+
+### Day 7
+Decision Tree classifier
+Loan approval prediction
+Learned gini, samples, value, class
+Visualized decision tree
+Built Streamlit web app
+Real-time loan approval prediction
