@@ -51,3 +51,11 @@ I am a 2nd-year engineering student building projects daily to gain strong pract
 - Visualized decision tree
 - Built Streamlit web app
 - Real-time loan approval prediction
+
+### Day 8
+- Used real-world loan dataset (CSV)
+- Data cleaning (handled missing values)
+- Selected important numeric features
+- Compared Logistic Regression and Decision Tree
+- Achieved ~81% accuracy
+- Learned about model evaluation and tuning basics
