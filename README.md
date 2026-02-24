@@ -59,3 +59,35 @@ I am a 2nd-year engineering student building projects daily to gain strong pract
 - Compared Logistic Regression and Decision Tree
 - Achieved ~81% accuracy
 - Learned about model evaluation and tuning basics
+
+### Day 9
+-Implemented K-Nearest Neighbors (KNN) algorithm
+-Understood distance-based learning (Euclidean distance)
+-Learned how KNN makes predictions using nearest neighbors
+-Explored effect of different K values
+-Understood overfitting (K=1) and underfitting (large K)
+-Built a basic classification model using KNN
+-Compared KNN with previous models
+
+### Day 10
+-Learned feature scaling using StandardScaler
+-Understood why scaling is important for distance-based algorithms
+-Applied scaling on dataset before training KNN
+-Visualized KNN decision boundary (2D intuition)
+-Understood how KNN forms non-linear decision regions
+-Explored impact of K on decision boundary shape
+-Improved model performance using proper preprocessing
+
+### Day 11
+-Learned Data Visualization for Exploratory Data Analysis (EDA)
+-Used Matplotlib and Seaborn for plotting
+-Created Histogram to understand feature distribution
+-Used Boxplot to detect outliers
+-Used Countplot to analyze class distribution
+-Generated Heatmap to study feature correlations
+-Created Pairplot to visualize relationships between features
+-Gained insights into data patterns, balance, and feature importance[count plot](image.png)
+[histogram](image-1.png)
+[boxplot](image-2.png)
+[heatmap](image-3.png)
+[pairplot](image-4.png)
