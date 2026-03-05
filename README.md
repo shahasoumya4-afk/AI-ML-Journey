@@ -91,3 +91,20 @@ I am a 2nd-year engineering student building projects daily to gain strong pract
 [boxplot](image-2.png)
 [heatmap](image-3.png)
 [pairplot](image-4.png)
+
+### Day 12
+-Explored dataset relationships using correlation analysis
+-Generated correlation matrix to measure relationships between features
+-Identified features strongly related to the target variable
+-Sorted correlations to find most influential features
+-Visualized feature relationships for better understanding
+-Learned how correlation helps in feature selection and data analysis
+
+### Day 13
+-Learned the importance of feature selection in machine learning
+-Studied different feature selection methods (Filter, Wrapper, Embedded)
+-Implemented Random Forest Classifier
+-Extracted feature importance scores from the trained model
+-Identified and removed less important features
+-Compared model precision before and after feature selection
+-Visualized feature importance using graphs
