@@ -108,3 +108,53 @@ I am a 2nd-year engineering student building projects daily to gain strong pract
 -Identified and removed less important features
 -Compared model precision before and after feature selection
 -Visualized feature importance using graphs
+
+# Day 14
+
+Learned the concepts of overfitting and underfitting
+
+Understood how model complexity affects performance
+
+Studied the bias–variance tradeoff
+
+Learned how high bias leads to underfitting
+
+Learned how high variance leads to overfitting
+
+Explored methods to reduce overfitting (regularization, pruning, cross validation)
+
+Understood the importance of balancing bias and variance for better model generalization
+
+# Day 15
+
+Learned the concept of K-Fold Cross Validation
+
+Understood the limitations of a single train–test split
+
+Studied how datasets are divided into K equal folds
+
+Trained the model multiple times using different folds
+
+Calculated performance scores for each fold
+
+Computed the average cross validation score
+
+Implemented K-Fold Cross Validation using cross_val_score() in sklearn
+
+# Day 16
+
+Learned the concept of hyperparameters in machine learning
+
+Studied important Random Forest hyperparameters (n_estimators, max_depth, min_samples_split)
+
+Built a baseline Random Forest model
+
+Applied cross validation to evaluate model stability
+
+Implemented GridSearchCV to test different hyperparameter combinations
+
+Used RandomizedSearchCV for faster hyperparameter tuning
+
+Selected the best performing model based on cross validation score
+
+Evaluated the final tuned model on the test dataset
